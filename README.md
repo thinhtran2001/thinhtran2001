@@ -95,7 +95,7 @@ I've had the opportunity to work on projects across different domains, including
 I'm always open to connecting with developers, exchanging knowledge, and exploring new opportunities.
 
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/thinh-tran-backend/)
-* **Email:** YOUR_EMAIL
+* **Email:** tranphuocthinh2001@gmail.com
 * **GitHub:** [github.com/thinhtran2001](https://github.com/thinhtran2001)
 
 ---

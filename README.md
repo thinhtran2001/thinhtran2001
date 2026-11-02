@@ -96,7 +96,7 @@ I'm always open to connecting with developers, exchanging knowledge, and explori
 
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/thinh-tran-backend/)
 * **Email:** YOUR_EMAIL
-* **GitHub:** [github.com/YOUR_USERNAME](https://github.com/thinhtran2001)
+* **GitHub:** [github.com/thinhtran2001](https://github.com/thinhtran2001)
 
 ---
 
